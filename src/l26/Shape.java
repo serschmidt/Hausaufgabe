@@ -1,6 +1,6 @@
 package l26;
 
-public class Shape {
+public abstract class Shape {
     protected String color;
 
     public Shape(String color) {
